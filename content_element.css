@@ -91,4 +91,7 @@ img {
  .container {
    flex-direction: column;
  }
+  .aside__header{
+    justify-content: center;
+  }
 }
